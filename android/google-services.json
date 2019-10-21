@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365131296654",
+    "firebase_url": "https://tremblebeforeme-2ba42.firebaseio.com",
+    "project_id": "tremblebeforeme-2ba42",
+    "storage_bucket": "tremblebeforeme-2ba42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365131296654:android:04e642e8a44e30ae",
+        "android_client_info": {
+          "package_name": "com.tremblebeforeme.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365131296654-vfejhoilei5e61jo6vhe914lfq8k7fig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tremblebeforeme.game",
+            "certificate_hash": "22f2295b397a13db52e3027c790167c7f287b12c"
+          }
+        },
+        {
+          "client_id": "365131296654-2o65h70mcagqde7s408nqjiitvseh4bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByu4GavX_hvt5K6iQGwTbu5Tqa4_X290M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365131296654-2o65h70mcagqde7s408nqjiitvseh4bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

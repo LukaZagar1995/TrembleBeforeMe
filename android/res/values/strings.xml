@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tremble Before Me</string>
+    <string name="login_error">Authentication failed!</string>
+    <string name="verification_email_error">Verification email was not sent!</string>
+    <string name="registration_error">You can\'t register with that email!</string>
+    <string name="verified_email_error">Email is not verified!</string>
+    <string name="tv_login_text">Login</string>
+    <string name="et_email_hint">Email</string>
+    <string name="et_password_hint">Password</string>
+    <string name="btn_login_text">Login</string>
+    <string name="et_password_empty_error">Password can\\\'t be empty!</string>
+    <string name="et_email_empty_error">Email can\\\'t be empty!</string>
+    <string name="et_username_hint">Username</string>
+    <string name="btn_register_text">Register</string>
+    <string name="tv_createAccount_text">Register</string>
+    <string name="et_username_empty_error">Username can\\\'t be empty!</string>
+    <string name="et_email_pattern_error">Email doesn\\\'t match email pattern!</string>
+    <string name="et_password_length_error">Password must be at least 6 characters!</string>
+    <string name="et_repeatPassword_match_error">Passwords don\\\'t match!</string>
+
+</resources>
